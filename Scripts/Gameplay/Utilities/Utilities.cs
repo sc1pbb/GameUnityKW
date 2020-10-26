@@ -19,9 +19,9 @@ public static class Utilities
     #endregion
 
     #region URL
-    public static string COMPANY_URL = "www.aporteinteractive.com";
-    public static string STORE_GAME_URL_ANDROID = "https://play.google.com/store/apps/details?id=com.aporte.kindwar"; //somethign like this https://play.google.com/store/apps/details?id=com.yourcompanyname.gamename
-    public static string STORE_GAME_URL_IOS = "http://itunes.apple.com/app/kind-war/id1175854473";//"www.google.com"; //something like: "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=<your app number here>&mt=8
+    public static string COMPANY_URL = "sc1pbb";
+    public static string STORE_GAME_URL_ANDROID = "https://play.google.com/store/apps/"; //somethign like this https://play.google.com/store/apps/details?id=com.yourcompanyname.gamename
+    public static string STORE_GAME_URL_IOS = "http://itunes.apple.com/app/";//"www.google.com"; //something like: "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=<your app number here>&mt=8
     #endregion
 
     #region LEADERBOARD_LINKS
